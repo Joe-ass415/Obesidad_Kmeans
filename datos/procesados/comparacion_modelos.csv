@@ -1,0 +1,4 @@
+Configuracion,K,Variables,Inercia,Silhouette,Davies_Bouldin,Iteraciones
+"Config 1: K=4 (3 vars: IMC, Edad, FAF)",4,3,2303.41,0.3552,1.0035,9
+"Config 2: K=4 (5 vars: +Agua, +Tecnología)",4,5,5990.1,0.2149,1.4839,19
+"Referencia: K=3 (3 vars: IMC, Edad, FAF)",3,3,3164.94,0.3242,1.1312,16

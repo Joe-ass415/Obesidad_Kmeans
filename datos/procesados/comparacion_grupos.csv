@@ -1,0 +1,5 @@
+Clasificacion,Registros,IMC_Prom,IMC_DE,Peso_Prom,Edad_Prom,Actividad_FAF,Agua_CH2O,Tecnologia_TUE,Pct_Antecedentes,Pct_ComidaCalorica,Porcentaje
+Jóvenes Activos,431,23.28,5.23,69.3,20.89,2.18,2.14,0.79,69.37,77.49,20.7
+Jóvenes Sedentarios,686,24.8,4.81,69.95,20.85,0.54,1.87,0.78,69.83,84.55,32.9
+Adultos con Sobrepeso,303,30.13,4.23,86.62,36.69,0.95,1.85,0.29,92.41,90.1,14.5
+Obesidad Severa Temprana,667,38.91,4.01,115.7,24.6,0.78,2.13,0.62,99.55,98.5,32.0
